@@ -26,12 +26,6 @@ HeY PaLs,I'm *Apurba Roy*,completed my ICSE & ISC from St Thomas Boys School,khi
   12th % - 73% (Computer Science stream) 2011-2023
 * Maulana Azad Kalam Abul University of Technology (SVIST) Persuing Btech in CSE AI & ML 2023-2027.
 
-# Certifications :
-* Completed GENERATIVE AI Certification Course from GOOGLE .
-* Completed DEEP LEARNING Certification Course from CHATGPT PROMT ENGINEERING .
-* Completed FRONTEND DEVELOPMENT Certification Course from DHAAPPS .
-* Completed LARGE LANGUAGE MODELs Certification Course from GOOGLE.
-
 # Worshops/Seminars :
 * Attended Seminar of KSHITIJ on AIML and Robotics.
 * Attended workshop on PROMPT ENGINEERING.
