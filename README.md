@@ -1,6 +1,6 @@
 # About Me 
 HeY PaLs,I'm *APURBA ROY*, Enthusiastic and dedicated & Highly motivated Computer Science student with a passion for technology
-and innovation. Proficient in programming languages and Web Developmernt with a solid foundation in software development methodologies. Demonstrated ability to collaborate effectively in team environments and adapt to new challenges. Now I'm persuing BTech CSE SVIST'27 passonate in Coding & Web Development,aspiring on AI & ML, also learning DSA. Eager to contribute skills and knowledge to a dynamic organization while continuing to learn and grow in the field of computer science. 
+and innovation. Proficient in programming languages and Web Developmernt with a solid foundation in software development methodologies. Demonstrated ability to collaborate effectively in team environments and adapt to new challenges. Now I'm persuing BTech CSE from SVIST'27 passionate in Coding & Web Development,aspiring on AI & ML, also learning DSA. Eager to contribute skills and knowledge to a dynamic organization while continuing to learn and grow in the field of computer science. 
 Let's get started.
 
 # Skills :
